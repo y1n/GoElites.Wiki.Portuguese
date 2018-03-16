@@ -51,7 +51,7 @@ a.header_link span {
 | <a href="http://goeliteswiki.readthedocs.io/pl/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/118/flag-for-brazil_1f1e7-1f1f7.png" alt="Poland" style="width: 30px;"/></a> | **Crippling うつ病** |
 
 
-## Content
+## Conteúdo
 - Princípios
 	- [Guias da Comunidade](CommunityPrinciples/CommunityGuidelines.md)
 	- [Guias de Suporte](CommunityPrinciples/SupportGuidelines.md)
