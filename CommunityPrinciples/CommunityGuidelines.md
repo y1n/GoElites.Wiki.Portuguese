@@ -1,5 +1,8 @@
+<div class="admonition warning">
+<p class="first admonition-title">Aviso</p>
+<p class="last">Leia atentamente estas orientações antes de acessar os Fóruns. Caso você perceber alguém quebrando as regras, reporte-o. Talvez certas regras não serão cumpridas a menos que sejam sinalizadas.</p>
+</div>
 
-Leia atentamente estas orientações antes de acessar os Fóruns. Caso você perceber alguém quebrando as regras, reporte-o. Talvez certas regras não serão cumpridas a menos que sejam sinalizadas.
 
 **Regras Gerais**
 
