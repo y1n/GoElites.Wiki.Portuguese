@@ -11,7 +11,7 @@
 </p>
 </div>
 
-### <font color="black">2</font>: Questão 2: Posso usar seu software no meu dispositivo?
+### <font color="black">2</font>: Posso usar seu software no meu dispositivo?
 
 ---
 
@@ -22,7 +22,7 @@
 </p>
 </div>
 
-### <font color="black">3</font>: Questão 3: Posso ajudar?
+### <font color="black">3</font>: Posso ajudar?
 
 ---
 
@@ -33,7 +33,7 @@
 </p>
 </div>
 
-### <font color="black">4</font>: Questão 4: Você lançará uma API para que outros desenvolvedores possam liberar seus scripts?
+### <font color="black">4</font>: Você lançará uma API para que outros desenvolvedores possam liberar seus scripts?
 
 ---
 
@@ -44,7 +44,7 @@
 </p>
 </div>
 
-### <font color="black">5</font> Existe alguma certa ordem para lançamentos de script de campeões? Que campeões devemos esperar em seguida?
+### <font color="black">5</font>: Existe alguma certa ordem para lançamentos de script de campeões? Que campeões devemos esperar em seguida?
 
 ---
 
