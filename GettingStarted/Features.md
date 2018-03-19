@@ -77,7 +77,7 @@ Caso habilitado, permite mudar o nickname de ambos aliados e inimigos.
 | **Modos**: Maior AP | Escolhe o alvo com maior AP para ser focado primeiro. |
 | **Modos**: Mais Perto | Escolhe o alvo mais perto para ser focado primeiro. |
 | **Modos**: Perto do Mouse | Escolhe o alvo mais perto do ponteiro do mouse para ser focado primeiro. |
-| **Modos**: LessAttack | TBA |
+| **Modos**: LessAttack | Escolhe o alvo que é mais fácil de matar com auto ataques. |
 | **Modos**: LessCast | Escolhe o alvo com mais feitiços disponíveis para ser focado primeiro. |
 | **Modos**: Lista de Prioridade | Escolhe alvo de acordo com a lista de prioridades. |
 | **Lista de Prioridades** | Na lista de prioridades, campeões com o numero 1 serão focados por último e campeões com 5 serão focados primeiro. |
@@ -173,11 +173,11 @@ Caso habilitado, permite mudar o nickname de ambos aliados e inimigos.
 | **Spells**: NomeHabilidade | Habilita o Evade a desviar de certas skillshots. Level de Perigo pode ser ajustado aqui. Até se a habilidade estiver desabilitada, os drawings ainda serão exibidos a menos que aqui esteja desabilitado. |
 | **Configurações do Humanizer**: Delay de detecção de habilidades | Define um delay em milissegundos antes do Evade desviar da habilidade. |
 | **Configurações do Humanizer**: Ângulo Máximo | Define o ângulo máximo entre o seu waypoint atual e o waypoint da rota de evasão. |
-| **Configurações do Humanizer**: Dont Dodge If Alt-Tab | Disables Evade from execution when League of Legends window is not active. |
-| **Configurações do Humanizer**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen. |
-| **Configurações do Humanizer**: Não Desviar se o Jogador  não estiver visível na sua tela | Desabilitad o Evade se o  seu campeão  não estiver visível na sua tela. |
-| **Configurações do Humanizer**: Ignorar FOW Exit | TBA | 
-| **Configurações do Humanizer**: Tempo minimo de Visibilidade | TBA |
+| **Configurações do Humanizer**: Não desviar se estiver no ALT+TAB | Desabilita o evade quando não estiver com o League na tela. |
+| **Configurações do Humanizer**: Ignorar Skillshots Não visíveis na Tela | Desabilita o evade quando receber skillshots que são castadas fora da sua tela. |
+| **Configurações do Humanizer**: Não Desviar se o Jogador  não estiver visível na sua tela | Desabilitar o Evade se o  seu campeão  não estiver visível na sua tela. |
+| **Configurações do Humanizer**: Ignorar FOW Exit | Faz o script não usar skills em um inimigo recém saído do FOW. | 
+| **Configurações do Humanizer**: Tempo minimo de Visibilidade | Define a quantidade de tempo que um alvo deve estar visível antes de receber skillshots. |
 | **Configurações do Drawing**: Largura da Linha | Define a largura das linhas do Drawing. |
 | **Configurações do Drawing**: Informar Status do Evade | Exibe se o Evade está habilitado ou desabilitado abaixo do seu campeão. |
 | **Configurações do Drawing**: Traçar ponto de Evasão | Exibe um indicador que informa a rota de evasão. |
