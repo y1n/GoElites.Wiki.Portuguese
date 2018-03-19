@@ -1,6 +1,8 @@
-**Aviso!** Enquanto o este artigo não é necessário como conhecimento de usuários da comunidade, é essencial para a Staff. Ele serve como uma demonstração de nossas políticas de tratamento do cliente e, finalmente, declara nosso ponto de vista centrado na comunidade.
-
----
+<div class="admonition warning">
+<p class="first admonition-title">Aviso</p>
+<p class="last">Enquanto o este artigo não é necessário como conhecimento de usuários da comunidade, é essencial para a Staff. Ele serve como uma demonstração de nossas políticas de tratamento do cliente e, finalmente, declara nosso ponto de vista centrado na comunidade.
+</p>
+</div>
 
 Como qualquer outro serviço, a GoElites depende fortemente da satisfação do cliente. Nós formamos parte de duas equipes separadas responsáveis por dois aspectos diferentes do nosso serviço: desenvolvedores de software e representates de suporte. Enquanto as pessoas vem pelo Software, eles muitas vezes ficam pela comunidade, mesmo que deixem de jogar o jogo para o qual oferecemos nossos serviços, e nosso objetivo principal é tornar sua experiência como parte da comunidade o mais emocionante possível. A fim de tornar nossos princípios sobre como nos comunicamos com nossa comunidade claros, gostaríamos que você se familiarizasse com o seguinte:
 
