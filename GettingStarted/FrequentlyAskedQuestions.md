@@ -31,7 +31,7 @@
 
 ---
 
-### <font color="black">4</font>: Você lançará uma API para que outros desenvolvedores possam liberar seus scripts?
+### <font color="black">4</font> : Você lançará uma API para que outros desenvolvedores possam liberar seus scripts?
 
 
 <div class="admonition tip">
@@ -43,7 +43,7 @@
 
 ---
 
-### <font color="black">5</font>: Existe alguma certa ordem para lançamentos de script de campeões? Que campeões devemos esperar em seguida?
+### <font color="black">5</font> : Existe alguma certa ordem para lançamentos de script de campeões? Que campeões devemos esperar em seguida?
 
 <div class="admonition tip">
 <p class="first admonition-title">Resposta</p>
