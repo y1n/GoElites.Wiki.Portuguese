@@ -4,7 +4,7 @@
 </div>
 
 
-**Regras Gerais**
+###Regras Gerais
 
 - O idioma do Fórum é o Inglês. Outros Idiomas são apenas permitidos na seção de multi-idiomas.
 - Sem abuso verbal ou críticas não construtivas.
