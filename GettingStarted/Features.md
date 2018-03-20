@@ -186,4 +186,4 @@ Caso habilitado, permite mudar o nickname de ambos aliados e inimigos.
 | Opção | Objetivo |
 |--|--|
 | **Bloquear ação fora da tela** | Desabilita o script a realizar qualquer função quando seu campeão não estiver na tela. |
-| **MS de tempo de clique** | Define o delay entre tempo de cliques em milissegundos. |
+| **MS de tempo de clique** | Define o delay entre cliques em milissegundos. |
