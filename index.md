@@ -34,7 +34,7 @@ a.header_link span {
 <div class="good_announcement"> 
     <img src="https://s.put.re/hzytMBa.png" style="width: 100px;">
     <a class="header_link" href="https://goelites.net"><span>></span> Forum</a>
-    <a class="header_link" href="https://discord.gg/m7RctYk"><span>></span> Discord</a>
+    <a class="header_link" href="https://discord.gg/S7VZCQz"><span>></span> Discord</a>
 </div>
 
 **Bem-vindo!** Nós esperamos que esta wiki sirva como uma fonte confiável de informações sobre nosso produto e sobre a comunidade. Se houver algo que você precise saber e que não esteja respondido aqui, por favor entre em contato conosco pelo Fórum ou Discord!
